@@ -1,0 +1,87 @@
+<--------master--------->
+
+$ git log
+commit f8ee5b64543a2e0c881e804516e33bb6c7ff94af (HEAD -> bug3, origin/master, origin/bug3, origin/HEAD, master)
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Wed Apr 5 00:26:05 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 0ec604dcd83ac2606293c1ec2aba16963a3406db (origin/master, origin/HEAD, master)
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Tue Apr 4 17:27:01 2023 +0200
+
+    Add java class
+
+commit 6e3516239a6bc79392b4556fb1125799855bff72
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Tue Apr 4 17:22:45 2023 +0200
+
+    Initial commit
+
+
+<--------bug1--------->
+
+$ git log
+commit 4575f3c8aa08f92dad82e16e3f3f8ca48b1c2a93 (HEAD -> bug1, origin/bug1)
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Wed Apr 5 00:16:47 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 0ec604dcd83ac2606293c1ec2aba16963a3406db
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Tue Apr 4 17:27:01 2023 +0200
+
+    Add java class
+
+commit 6e3516239a6bc79392b4556fb1125799855bff72
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Tue Apr 4 17:22:45 2023 +0200
+
+    Initial commit
+
+
+<--------bug2--------->
+
+$ git log
+commit 7407939205c70403d605878798db950c93706b83 (HEAD -> bug2)
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Wed Apr 5 00:21:33 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 0ec604dcd83ac2606293c1ec2aba16963a3406db (origin/master, origin/HEAD, master)
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Tue Apr 4 17:27:01 2023 +0200
+
+    Add java class
+
+commit 6e3516239a6bc79392b4556fb1125799855bff72
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Tue Apr 4 17:22:45 2023 +0200
+
+    Initial commit
+
+
+<--------bug3--------->
+
+
+$ git log
+commit f8ee5b64543a2e0c881e804516e33bb6c7ff94af (HEAD -> bug3, origin/master, origin/bug3, origin/HEAD, master)
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Wed Apr 5 00:26:05 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 0ec604dcd83ac2606293c1ec2aba16963a3406db (origin/master, origin/HEAD, master)
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Tue Apr 4 17:27:01 2023 +0200
+
+    Add java class
+
+commit 6e3516239a6bc79392b4556fb1125799855bff72
+Author: TamaraDeleva <delevatamara@gmail.com>
+Date:   Tue Apr 4 17:22:45 2023 +0200
+
+    Initial commit
